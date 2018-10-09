@@ -1,5 +1,8 @@
-# twitster
+# Twitster
+
 This application was generated using JHipster 5.3.4, you can find documentation and help at [https://www.jhipster.tech/documentation-archive/v5.3.4](https://www.jhipster.tech/documentation-archive/v5.3.4).
+
+This is a simple Twitter clone written for the purpose of learning and playing around with JHipster.
 
 ## Development
 
