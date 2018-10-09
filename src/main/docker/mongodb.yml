@@ -1,0 +1,8 @@
+version: '2'
+services:
+    twitster-mongodb:
+        image: mongo:3.6.3
+        ports:
+            - "27017:27017"
+        # volumes:
+        #     - ~/volumes/jhipster/twitster/mongodb/:/data/db/
