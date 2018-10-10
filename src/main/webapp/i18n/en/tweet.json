@@ -1,0 +1,23 @@
+
+{
+    "twitsterApp": {
+        "tweet" : {
+            "home": {
+                "title": "Tweets",
+                "createLabel": "Create a new Tweet",
+                "createOrEditLabel": "Create or edit a Tweet"
+            },
+            "created": "A new Tweet is created with identifier {{ param }}",
+            "updated": "A Tweet is updated with identifier {{ param }}",
+            "deleted": "A Tweet is deleted with identifier {{ param }}",
+            "delete": {
+                "question": "Are you sure you want to delete Tweet {{ id }}?"
+            },
+            "detail": {
+                "title": "Tweet"
+            },
+            "tweeter": "Tweeter",
+            "content": "Content"
+        }
+    }
+}
