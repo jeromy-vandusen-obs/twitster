@@ -45,3 +45,14 @@ export const Home = props => (
     </NavLink>
   </NavItem>
 );
+
+export const Timeline = props => (
+  <NavItem>
+    <NavLink tag={Link} to="/timeline" className="d-flex align-items-center">
+      <FontAwesomeIcon icon="bookmark" />
+      <span>
+        <Translate contentKey="global.menu.timeline">Timeline</Translate>
+      </span>
+    </NavLink>
+  </NavItem>
+);
